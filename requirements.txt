@@ -1,5 +1,1 @@
-streamlit
-langchain
-google-genai
-numpy
-pydantic # <--- Tambahkan baris ini
+(daftar pustaka)
